@@ -50,7 +50,7 @@ Tracks what music an individual listens to, and pairs them with others based on 
 **Flow Navigation** (Screen to Screen)
 
 ## Wireframes
-<img src="file:///Users/dariusgroves/Downloads/1000x1332.jpeg.beb1a366acc34c0eac82810600c2bbf7.large.jpeg" width=800><br>
+![Alt Text](https://github.com/DTT-Group/NewsReaderAPP/blob/main/IMG_5717.JPG)
 
 ## Schema 
 ### Models
