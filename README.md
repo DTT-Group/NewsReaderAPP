@@ -23,6 +23,7 @@ Tracks what music an individual listens to, and pairs them with others based on 
 **Required Must-have Stories**
 
 * User logs in (Completed) ✅
+![Alt Text]()
 * User can sign up for a new account
 * User can subscribe to news channels
 * User can view Videos with audio of the current/past news
