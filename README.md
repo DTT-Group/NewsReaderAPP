@@ -98,3 +98,4 @@ http://newsapi.org/v2/everything?q=bitcoin&from=2020-10-03&sortBy=publishedAt&ap
     `GET`    | /News | get all of the news
     `GET`    | /News/?name=name | return specific character by name
 
+
