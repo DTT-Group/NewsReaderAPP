@@ -25,9 +25,8 @@ Tracks what music an individual listens to, and pairs them with others based on 
 * User logs in (Completed) ✅
 ![Alt Text](https://github.com/DTT-Group/NewsReaderAPP/blob/main/News%20Reader%20App%20beta1.gif)
 * User can sign up for a new account
-* User can subscribe to news channels
-* User can view Videos with audio of the current/past news
-* User can get push notifications of when new news is received
+* User can scroll through news stories and clicking on stories takes them to the source
+![Alt Text](https://github.com/DTT-Group/NewsReaderAPP/blob/main/News%20Reader%20App%20Home.gif)
 
 **Optional Nice-to-have Stories**
 
