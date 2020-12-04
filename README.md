@@ -13,8 +13,6 @@ This application was created to have multiple different news sources to provide 
 - **Category:** News
 - **Mobile:** This app would be primarily developed for mobile. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
 - **Market:** Any individual could choose to use this app, and to keep it a safe environment.
-- **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
-
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
@@ -31,7 +29,7 @@ This application was created to have multiple different news sources to provide 
 
 * User can favorite specific news channels and order which ones will pop up first
 * Most viewed news channel pops up first
-* User can unsubscribe from a channel
+
 
 ### 2. Screen Archetypes
 
@@ -41,9 +39,11 @@ This application was created to have multiple different news sources to provide 
 
 **Tab Navigation** (Tab to Screen)
 
-* News channel Selection
-* Profile 
-* Account info
+* Sign-in
+
+* Create an account
+
+* Scroll view of reported news
 
 
 **Flow Navigation** (Screen to Screen)
